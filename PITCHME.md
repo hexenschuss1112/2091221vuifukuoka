@@ -1,6 +1,6 @@
 # 20191221vuifukuoka
 ---
-@snap[north-west text-left]
+@snap[north-west text-left　text-10]
 ## 自己紹介
 @snapend
 @snap[text-left]
@@ -31,7 +31,7 @@
 - どうなるのか|
 - 音声である必要は|
 ---
-@snap[north-west text-left]
+@snap[north-west text-left text-10]
 ## title2
 @snapend
 ### title3
