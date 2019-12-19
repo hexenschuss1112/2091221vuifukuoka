@@ -18,13 +18,13 @@
 
 ## アイデア
 
-@ul[list-square-bullets list-spaced-bullets]
-- 不便を感じたとき
- - 運転中
- - 料理中
-- アシストする人を見たとき
- - プレゼンのタイムキーパー
- - 博多手一本締の音頭をとる人
+@ul[list-square-bullets list-spaced-bullets](false)
+* 不便を感じたとき
+ * 運転中
+ * 料理中
+* アシストする人を見たとき
+ * プレゼンのタイムキーパー
+ * 博多手一本締の音頭をとる人
 
 ふとした時に！が出ることが多い
  
@@ -36,7 +36,7 @@
 
 ## スキルについて整理する
 
-@ul[list-square-bullets list-spaced-bullets]
+@ul[list-square-bullets list-spaced-bullets](false)
 - どこで使うのか
 - 誰が使うのか
 - どうなるのか
