@@ -9,7 +9,7 @@
  - dd
 
 ---
-@snap[north-west ]
+@snap[north-west span-8]
 ## 自己紹介
 @snapend
 - 氏名：
