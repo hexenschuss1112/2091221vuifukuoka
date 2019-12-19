@@ -17,8 +17,9 @@
 @snapend
 
 ---
-
+@snap[north-west text-left]
 ## アイデア
+@snapend
 
 @ul[list-square-bullets list-spaced-bullets](false)
 - 不便を感じたとき
@@ -36,8 +37,9 @@
 思いつきで作り始めると大変な事に
 
 ---
-
+@snap[north-west text-left]
 ## スキルについて整理する
+@snapend
 
 @ul[list-square-bullets list-spaced-bullets](false)
 - どこで使うのか
@@ -46,7 +48,17 @@
 - 音声である必要は
 @ulend
 ---
-
-### aaa
-
+@snap[north-west text-left]
+## title2
+@snapend
+@snap[test-left]
+### title3
+#### title4
+##### title5
+本文
+- list
+ - list2
+1. listno
+ 1. listno2
+@snapend
 ---
