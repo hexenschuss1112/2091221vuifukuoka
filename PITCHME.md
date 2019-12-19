@@ -1,18 +1,9 @@
 # 20191221vuifukuoka
-## title2
-### title3
-- aa
- - bb
-#### title4
-##### title5
-- cc
- - dd
-
 ---
 @snap[north-west text-left]
 ## 自己紹介
 @snapend
-@snap[west]
+@snap[text-left]
 - 氏名：
 @snapend
 
@@ -20,33 +11,30 @@
 @snap[north-west text-left]
 ## アイデア
 @snapend
-
-@ul[list-square-bullets list-spaced-bullets](false)
+@snap[text-left]
 - 不便を感じたとき
  - 運転中
  - 料理中
 - アシストする人を見たとき
  - プレゼンのタイムキーパー
  - 博多手一本締の音頭をとる人
-@ulend
 
 ふとした時に！が出ることが多い
- 
+@snapend
 ---
-
+@snap[text-left]
 思いつきで作り始めると大変な事に
-
+@snapend
 ---
 @snap[north-west text-left]
 ## スキルについて整理する
 @snapend
-
-@ul[list-square-bullets list-spaced-bullets](false)
-- どこで使うのか
-- 誰が使うのか
-- どうなるのか
-- 音声である必要は
-@ulend
+@snap[text-left]
+- 誰が使うのか|
+- どこで使うのか|
+- どうなるのか|
+- 音声である必要は|
+@snapend
 ---
 @snap[north-west text-left]
 ## title2
@@ -60,5 +48,9 @@
  - list2
 1. listno
  1. listno2
+@ul[list-square-bullets list-spaced-bullets](false)
+- bullet1
+- bullet2
+@ulend
 @snapend
 ---
