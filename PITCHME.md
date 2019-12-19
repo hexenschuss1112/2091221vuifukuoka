@@ -9,8 +9,9 @@
  - dd
 
 ---
-
+@snap[north-west span-40]
 ## 自己紹介
+@snapend
 - 氏名：
 
 
