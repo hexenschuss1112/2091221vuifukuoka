@@ -42,6 +42,7 @@
 ### title3
 #### title4
 ##### title5
+@snapend
 本文
 - list
  - list2
@@ -51,5 +52,4 @@
 - bullet1
 - bullet2
 @ulend
-@snapend
 ---
