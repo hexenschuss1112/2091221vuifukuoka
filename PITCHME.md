@@ -9,7 +9,7 @@
  - dd
 
 ---
-@snap[north-west]
+@snap[north-west text-left]
 ## 自己紹介
 @snapend
 @snap[west]
