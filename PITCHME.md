@@ -51,7 +51,7 @@
 @snap[north-west text-left]
 ## title2
 @snapend
-@snap[test-left]
+@snap[text-left]
 ### title3
 #### title4
 ##### title5
