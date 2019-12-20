@@ -31,6 +31,18 @@
 - どうなるのか|
 - 音声である必要は|
 ---
+### ペルソナ
+---
+@snap[north]
+#### 博多手一本
+@snapend
+@snap[west span-45]
+@box[bg-green rounded box-padding](1.音頭を取る練習をしたい人#あああ)
+@snapend
+@snap[east span-45]
+@box[bg-green rounded box-padding](2.手拍子の練習をしたい人#いいい)
+@snapend
+---
 @snap[north-west text-left]
 ## title2
 @snapend
