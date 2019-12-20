@@ -1,32 +1,35 @@
-# 20191221vuifukuoka
+## 20191221vuifukuoka
 ---
-## 自己紹介
----
-@snap[north-west]
 ### 自己紹介
-@snapend
 - 氏名
-- ４ヶ月
+- voice ui歴 2019/07〜
+- フロントに出るよりは、裏方でサポートする方が向いてるタイプ
 ---
 ## どんな時にアイデアが浮かぶ？
 ---
 @snap[north-west text-left]
-### どんな時にアイデアが浮かぶ？
-@snapend
-ふとした時に！が出ることが多い
-- 不便を感じたとき
- - 運転中
- - 料理中
-- アシストしてる人を見たとき
+@ul
+- 状況から考える
+ - 手が使えない
+  - 物を持ってる、濡れてる
+ - 目が使えない
+  - 真っ暗（電気がついていない）
+  - 視線を外せない
+ - 聞くだけ良い時
+@ulend
+---
+@ul
+- ふとした時
  - プレゼンのタイムキーパー
  - 博多手一本締の音頭をとる人
+@ulend
 ---
 @snap[text-left]
 ### 思いつきで作り始めると大変な事に
 ![Logo](assets/images/vflow_screen01.png)
 @snapend
 ---
-This PITCHME.md markdown snippet:
+## いったん落ち着こう
 ---
 @snap[north-west text-left]
 ## スキルについて整理する
