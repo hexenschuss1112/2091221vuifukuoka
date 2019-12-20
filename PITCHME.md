@@ -23,7 +23,10 @@
 ---
 @snap[text-left]
 ### 思いつきで作り始めると大変な事に
+![Logo](assets/images/vflow_screen01.png)
 @snapend
+---
+This PITCHME.md markdown snippet:
 ---
 @snap[north-west text-left]
 ## スキルについて整理する
