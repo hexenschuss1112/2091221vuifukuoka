@@ -59,7 +59,9 @@
 リアリティのある詳細な情報を設定していく
 @snapend
 ---
+@snap[north]
 ### 博多手一本
+@snapend
 @snap[west span-48]
 - ４０歳、男性。福岡の企業の課長。
 - ジモティ
