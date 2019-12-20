@@ -1,12 +1,13 @@
 # 20191221vuifukuoka
 ---
-@snap[north-west text-left]
 ## 自己紹介
-@snapend
-@snap[text-left]
-- 氏名：
-@snapend
-
+---
+### 自己紹介
+- 氏名
+- ４ヶ月
+---
+## 是非教えて欲しい
+## どんな時にアイデアが浮かぶ？
 ---
 @snap[north-west text-left]
 ## アイデア
@@ -49,6 +50,7 @@
 @snap[east span-45]
 @box[bg-green rounded box-padding](2.手拍子をしたい人#いいい)
 @snapend
+---
 ### 嬉しいのか
 ---
 @snap[north-west text-left]
