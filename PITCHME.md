@@ -63,15 +63,18 @@
 ### 博多手一本
 @snapend
 @snap[west span-45 text-left text-08]
-- ４０歳、男性。福岡の企業の課長。
+- ４０歳、男性
+- 福岡の企業の課長
 - ジモティ
-- 忘年会のトリを任される。
+- 初めて忘年会のトリを任される
 @snapend
-@snap[east span-45 text-left text-08]
-- 23歳、女性。熊本から福岡の企業に就職。
+@snap[east span-45 text-left text-08 bg-gray]
+- 23歳、女性
+- 熊本から福岡の企業に就職
 - 歴史好き
-- 社会人初めての忘年会。忘年会スルーはしない。
+- 忘年会スルーはしない
 @snapend
+---
 ---
 @snap[north]
 #### 博多手一本
@@ -80,7 +83,7 @@
 @box[bg-green rounded box-padding](1.音頭を取る練習をしたい人#あああ)
 @snapend
 @snap[east span-45]
-@box[bg-green rounded box-padding](2.手拍子の練習をしたい人#いいい)
+@box[bg-orange rounded box-padding](2.手拍子の練習をしたい人#いいい)
 @snapend
 ---
 ### 嬉しいのか
