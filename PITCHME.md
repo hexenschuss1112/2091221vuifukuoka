@@ -1,13 +1,17 @@
 ## 20191221vuifukuoka
 ---
+@snap[north]
 ### 自己紹介
+@snapend
 - 氏名
 - voice ui歴 2019/07〜
 - 裏方でサポートする方が向いてるとおもう
 ---
 ## スキルのアイデアってどう生まれます？
 ---
+@snap[north]
 ### 状況から考えてみた時
+@snapend
 @ul[...](false)
 - 手が使えない
   - 物を持ってる、濡れてる
@@ -17,7 +21,9 @@
 - 聞くだけ良い時
 @ulend
 ---
+@snap[north]
 ### ふとした時
+@snapend
 @ul[...](false)
 - プレゼンのタイムキーパ
 - 次の日の準備
@@ -26,7 +32,9 @@
 ---
 ## つくれそう！
 ---
+@snap[north]
 ### と思って作り始めても、<br>色々インプットされてくる
+@snapend
 @ul
 - 挨拶は入れた方がいいかな
 - ここは選択させたら広がるかな
@@ -36,14 +44,14 @@
 - 課金できるってよ
 @ulend
 ---
-@snap[text-left]
+@snap[north]
 ### 思いつきで作り始めると大変な事に
-![Logo](assets/images/vflow_screen01.png)
 @snapend
+![Logo](assets/images/vflow_screen01.png)
 ---
 ## いったん落ち着こう
 ---
-@snap[north-west text-left]
+@snap[north]
 ### スキルについて整理する
 @snapend
 - 誰が使うの？|
@@ -97,7 +105,9 @@
 ---
 ## まとめ
 ---
+@snap[north]
 ### ペルソナを書くと
+@snapend
 - その人の抱える課題
 - その人にとっての価値
 ---
