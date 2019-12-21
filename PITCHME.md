@@ -68,7 +68,7 @@
 - ジモティ
 - 初めて忘年会のトリを任される
 @snapend
-@snap[east span-45 text-left text-08 bg-gray]
+@snap[east span-45 text-left text-08]
 - 23歳、女性
 - 熊本から福岡の企業に就職
 - 歴史好き
@@ -80,10 +80,16 @@
 #### 博多手一本
 @snapend
 @snap[west span-45]
-@box[bg-green rounded box-padding](1.音頭を取る練習をしたい人#あああ)
+@box[bg-green rounded box-padding](誰が使うの？#音頭を取る練習をしたい人。一人)
+@snapend
+@snap[west span-45]
+@box[bg-green rounded box-padding](どこで使うの？#自分の部屋)
 @snapend
 @snap[east span-45]
-@box[bg-orange rounded box-padding](2.手拍子の練習をしたい人#いいい)
+@box[bg-orange rounded box-padding](誰が使うの？#手拍子の練習をしたい人。同僚と一緒に)
+@snapend
+@snap[east span-45]
+@box[bg-orange rounded box-padding](どこで使うの？#定時後の会議室)
 @snapend
 ---
 ### 嬉しいのか
