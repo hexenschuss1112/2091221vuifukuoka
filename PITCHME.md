@@ -18,7 +18,9 @@
 - 目が使えない
   - 真っ暗（電気がついていない）
   - 視線を外せない
-- 聞くだけ良い時
+  - 死角(視線は直線)
+- 聞くだけで良い時
+  - ヘッドホン、イヤホンがある
 @ulend
 ---
 @snap[north span-100]
@@ -33,19 +35,19 @@
 ## つくれそう！
 ---
 @snap[north span-100]
-### と思って作り始めても、<br>色々インプットされてくる
+### と思って作り始めるも、<br>色々インプットされてくる
 @snapend
 @ul
 - 挨拶は入れた方がいいかな
 - ここは選択させたら広がるかな
-- 待てないの？
+- 長時間待てないの？
 - 再生できる音声の数が決まってるの？
 - パーソナライズした方がいいらしいよ
-- 課金できるってよ
+- 課金できるようになったよ
 @ulend
 ---
 @snap[north span-100]
-### 思いつきで作り始めると大変な事に
+### 勢いで作り始めると大変な事に
 @snapend
 ![Logo](assets/images/vflow_screen01.png)
 ---
@@ -67,22 +69,27 @@
 リアリティのある詳細な情報を設定していく
 @snapend
 ---
+博多手一本スキルを使う人のペルソナを考える
+---
 @snap[north]
-### 博多手一本
+### 例） 博多手一本スキル
 @snapend
 @snap[west span-45 text-left text-08]
 - ４０歳、男性
+- 既婚
 - 福岡の企業の課長
 - ジモティ
 - 初めて忘年会のトリを任される
 @snapend
 @snap[east span-45 text-left text-08]
 - 23歳、女性
+- 未婚
 - 熊本から福岡の企業に就職
 - 歴史好き
 - 忘年会スルーはしない
 @snapend
 ---
+スキルに整理する
 ---
 @snap[north]
 #### 博多手一本
@@ -91,16 +98,16 @@
 @box[bg-green rounded box-padding](誰が使うの？#音頭を取る練習をしたい人。一人)
 @snapend
 @snap[west span-45]
-@box[bg-green rounded box-padding](どこで使うの？#自分の部屋)
+@box[bg-green rounded box-padding](どこで使うの？#個室、風呂)
 @snapend
-@snap[west span-45]
-@box[bg-green rounded box-padding](何が嬉しいの？#自分の部屋)
+@snap[south-west span-45]
+@box[bg-green rounded box-padding](何が嬉しいの？#)
 @snapend
 @snap[north-east span-45]
 @box[bg-orange rounded box-padding](誰が使うの？#手拍子の練習をしたい人。同僚と一緒に)
 @snapend
 @snap[east span-45]
-@box[bg-orange rounded box-padding](どこで使うの？#定時後の会議室)
+@box[bg-orange rounded box-padding](どこで使うの？#定時後の会議室、風呂)
 @snapend
 ---
 ## まとめ
@@ -108,8 +115,10 @@
 @snap[north span-100]
 ### ペルソナを書くと
 @snapend
-- その人の抱える課題
-- その人にとっての価値
+- その人の抱える課題、その人にとっての価値が明確になる
+- パーソナライズするヒントになる
+- マネタイズするヒントになる
+- 作るスキルのインプット
 ---
 ## ご清聴ありがとうございました。
 ---
