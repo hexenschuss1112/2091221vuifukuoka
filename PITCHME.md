@@ -95,7 +95,7 @@
 @box[bg-blue rounded box-padding](誰が使うの？#音頭を取る練習をしたい人)
 @snapend
 @snap[west span-45]
-@box[bg-blue rounded box-padding](どこで使うの？#個室、風呂)
+@box[bg-blue rounded box-padding](どこで使うの？#自分の部屋)
 @snapend
 @snap[south-west span-45]
 @box[bg-blue rounded box-padding](何が嬉しいの？#一人でコソ練できる)
@@ -106,7 +106,7 @@
 @snap[east span-45]
 @box[bg-orange rounded box-padding](どこで使うの？#風呂)
 @snapend
-@snap[south-west span-45]
+@snap[south-east span-45]
 @box[bg-orange rounded box-padding](何が嬉しいの？#一人でコソ練できる)
 @snapend
 ---
