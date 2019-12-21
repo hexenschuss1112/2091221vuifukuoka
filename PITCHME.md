@@ -5,7 +5,7 @@
 - voice ui歴 2019/07〜
 - 裏方でサポートする方が向いてるとおもう
 ---
-## アイデアってどう生まれます？
+## スキルのアイデアってどう生まれます？
 ---
 ### 状況から考えてみた時
 @ul[...](false)
@@ -48,7 +48,7 @@
 @snapend
 - 誰が使うの？|
 - どこで使うの？|
-- それで嬉しいの？|
+- 何が嬉しいの？|
 - それ音声である必要があるの？|
 ---
 ## ペルソナ
@@ -79,20 +79,29 @@
 @snap[north]
 #### 博多手一本
 @snapend
-@snap[west span-45]
+@snap[north-west span-45]
 @box[bg-green rounded box-padding](誰が使うの？#音頭を取る練習をしたい人。一人)
 @snapend
 @snap[west span-45]
 @box[bg-green rounded box-padding](どこで使うの？#自分の部屋)
 @snapend
-@snap[east span-45]
+@snap[west span-45]
+@box[bg-green rounded box-padding](何が嬉しいの？#自分の部屋)
+@snapend
+@snap[north-east span-45]
 @box[bg-orange rounded box-padding](誰が使うの？#手拍子の練習をしたい人。同僚と一緒に)
 @snapend
 @snap[east span-45]
 @box[bg-orange rounded box-padding](どこで使うの？#定時後の会議室)
 @snapend
 ---
-### 嬉しいのか
+## まとめ
+---
+### ペルソナを書くと
+- その人の抱える課題
+- その人にとっての価値
+---
+## ご清聴ありがとうございました。
 ---
 @snap[north-west text-left]
 ## title2
