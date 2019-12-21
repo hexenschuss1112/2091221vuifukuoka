@@ -3,7 +3,7 @@
 @snap[north]
 ### 自己紹介
 @snapend
-- 氏名 渡辺 泰久（わたなべ やすひさ）
+- 氏名 
 - voice ui歴 2019/07〜
 - 裏方でサポートする方が向いてるとおもう
 ---
@@ -150,3 +150,4 @@
 @ulend
 @table[table-header custom-header custom-row custom-spacing](path/to/sample.csv)
 ---
+https://gitpitch.com/hexenschuss1112/2091221vuifukuoka#/
