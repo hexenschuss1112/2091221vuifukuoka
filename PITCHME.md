@@ -92,19 +92,22 @@
 スキルを考えてみる
 ---
 @snap[north-west span-45]
-@box[bg-green rounded box-padding](誰が使うの？#音頭を取る練習をしたい人。一人)
+@box[bg-blue rounded box-padding](誰が使うの？#音頭を取る練習をしたい人)
 @snapend
 @snap[west span-45]
-@box[bg-green rounded box-padding](どこで使うの？#個室、風呂)
+@box[bg-blue rounded box-padding](どこで使うの？#個室、風呂)
 @snapend
 @snap[south-west span-45]
-@box[bg-green rounded box-padding](何が嬉しいの？#)
+@box[bg-blue rounded box-padding](何が嬉しいの？#一人でコソ練できる)
 @snapend
 @snap[north-east span-45]
-@box[bg-orange rounded box-padding](誰が使うの？#手拍子の練習をしたい人。同僚と一緒に)
+@box[bg-orange rounded box-padding](誰が使うの？#手拍子の練習をしたい人)
 @snapend
 @snap[east span-45]
-@box[bg-orange rounded box-padding](どこで使うの？#定時後の会議室、風呂)
+@box[bg-orange rounded box-padding](どこで使うの？#風呂)
+@snapend
+@snap[south-west span-45]
+@box[bg-orange rounded box-padding](何が嬉しいの？#一人でコソ練できる)
 @snapend
 ---
 ## まとめ
