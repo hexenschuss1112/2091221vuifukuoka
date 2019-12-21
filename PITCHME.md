@@ -9,7 +9,7 @@
 ---
 ## スキルのアイデアってどう生まれます？
 ---
-@snap[north]
+@snap[north span-100]
 ### 状況から考えてみた時
 @snapend
 @ul[...](false)
@@ -21,7 +21,7 @@
 - 聞くだけ良い時
 @ulend
 ---
-@snap[north]
+@snap[north span-100]
 ### ふとした時
 @snapend
 @ul[...](false)
@@ -32,7 +32,7 @@
 ---
 ## つくれそう！
 ---
-@snap[north]
+@snap[north span-100]
 ### と思って作り始めても、<br>色々インプットされてくる
 @snapend
 @ul
@@ -44,14 +44,14 @@
 - 課金できるってよ
 @ulend
 ---
-@snap[north]
+@snap[north span-100]
 ### 思いつきで作り始めると大変な事に
 @snapend
 ![Logo](assets/images/vflow_screen01.png)
 ---
 ## いったん落ち着こう
 ---
-@snap[north]
+@snap[north span-100]
 ### スキルについて整理する
 @snapend
 - 誰が使うの？|
@@ -105,7 +105,7 @@
 ---
 ## まとめ
 ---
-@snap[north]
+@snap[north span-100]
 ### ペルソナを書くと
 @snapend
 - その人の抱える課題
