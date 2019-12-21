@@ -71,7 +71,7 @@
 ---
 博多手一本スキルを使う人のペルソナを考える
 ---
-@snap[north]
+@snap[north span-100]
 ### 例） 博多手一本スキル
 @snapend
 @snap[west span-45 text-left text-08]
@@ -89,11 +89,8 @@
 - 忘年会スルーはしない
 @snapend
 ---
-スキルに整理する
+スキルを考えてみる
 ---
-@snap[north]
-#### 博多手一本
-@snapend
 @snap[north-west span-45]
 @box[bg-green rounded box-padding](誰が使うの？#音頭を取る練習をしたい人。一人)
 @snapend
