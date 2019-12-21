@@ -89,7 +89,7 @@
 - 忘年会スルーはしない
 @snapend
 ---
-スキルを考えてみる
+疑問について考えてみる
 ---
 @snap[north-west span-45]
 @box[bg-blue rounded box-padding](誰が使うの？#音頭を取る練習をしたい人)
